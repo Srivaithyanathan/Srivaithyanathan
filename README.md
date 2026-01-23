@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M Srivaithyanathan
 - 👀 I’m interested in ...AI&ML
-- 🌱 I’m currently learning B.Tech IT:first year
+- 🌱 I’m currently learning B.Tech IT:second year
 - 💞️ I’m looking to collaborate on ...ML Research 
 - 📫 Pursuing B.Tech IT in Sri Ramakrishna Engineering College 
 - 😄 Pronouns:He
