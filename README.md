@@ -1,7 +1,7 @@
 - 👋 Hi, I’m M Srivaithyanathan
-- 👀 I’m interested in ...AI&ML
+- 👀 I’m interested in ...Developing 
 - 🌱 I’m currently learning B.Tech IT:second year
-- 💞️ I’m looking to collaborate on ...ML Research 
+- 💞️ I’m looking to collaborate on ...Dev
 - 📫 Pursuing B.Tech IT in Sri Ramakrishna Engineering College 
 - 😄 Pronouns:He
 - ⚡ Fun fact:Life goes as it comes
