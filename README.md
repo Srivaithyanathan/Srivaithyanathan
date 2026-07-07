@@ -1,7 +1,7 @@
 - 👋 Hi, I’m M Srivaithyanathan
 - 👀 I’m interested in ...Developing 
 - 🌱 I’m currently learning B.Tech IT:second year
-- 💞️ I’m looking to collaborate on ...Dev
+- 💞️ I’m looking to collaborate on ...DevOps
 - 📫 Pursuing B.Tech IT in Sri Ramakrishna Engineering College 
 - 😄 Pronouns:He
 - ⚡ Fun fact:Life goes as it comes
